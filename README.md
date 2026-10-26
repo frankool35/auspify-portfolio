@@ -1,55 +1,50 @@
-
 # Etim Frank — Personal Portfolio
 
-## About the Project
+Welcome to my personal portfolio website. This project showcases my background, technical skills, selected projects, and contact information.
 
-This personal portfolio website was developed as part of the
-Full Stack Development Internship at Auspify Technologies.
+## About Me
 
-It presents my background, technical skills, development projects,
-and contact form in a responsive web interface.
+I am Etim Frank, a Physics educator and aspiring full-stack developer pursuing a degree in Web and Software Development.
 
-## Features
+I enjoy building practical web applications and using technology to solve problems.
 
-- Responsive layout for desktop and mobile devices
-- Navigation between portfolio sections
-- About and technical skills sections
-- Featured software development projects
-- Contact form with client-side validation
-- Automatic copyright year
-- Accessible form labels and navigation controls
-
-## Technologies Used
+## Technologies
 
 - HTML5
 - CSS3
 - JavaScript
+- Node.js
+- Express
+- MongoDB
+- Git and GitHub
 
-## Project Structure
+## Featured Projects
 
-auspify-portfolio/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+### SmartMart
 
-## Running the Project
+An online supermarket and retail store project featuring product browsing and shopping functionality.
 
-1. Clone or download the repository.
-2. Open the project folder.
-3. Open index.html in a web browser.
+### StockFlow API
 
-A local development server such as VS Code Live Server can also
-be used for testing.
+A team project focused on inventory management and REST API development.
 
-## Contact Form Notice
+## Features
 
-The contact form currently performs client-side validation and
-displays a demonstration message. It does not send emails or
-store submitted messages.
+- Responsive layout
+- Home, About, Projects, and Contact sections
+- Profile photo
+- Contact form with client-side validation
+- Mobile navigation
 
-## Internship
+## Run Locally
 
-Program: Full Stack Development Internship
-Organization: Auspify Technologies
-Project: Personal Portfolio Website
+1. Clone this repository.
+2. Open `index.html` in your browser.
+
+## Contact
+
+Use the contact section on the website to get in touch.
+
+## License
+
+This project was created for my Full Stack Development Internship portfolio.
